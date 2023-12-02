@@ -1,8 +1,8 @@
 package day_1
 
 import (
-	"aoc/2023/utils"
-	"aoc/2023/utils/str"
+	"aoc/utils"
+	"aoc/utils/str"
 	"regexp"
 	"strconv"
 	"strings"
